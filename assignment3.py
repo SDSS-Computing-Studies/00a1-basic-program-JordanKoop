@@ -4,5 +4,5 @@
 #  Check the README.md file for the sample output
 
 print(end="Hello world!")
-print(end="This is how multiple print statements are joined.")
-print(end="Use end=\"\"")
+print(end=" This is how multiple print statements are joined.")
+print(end=" Use end=\"\"")
